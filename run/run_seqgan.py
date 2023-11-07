@@ -29,7 +29,7 @@ else:
 
 # Executables
 executable = 'python'  # specify your own python interpreter path here
-rootdir = '../'
+rootdir = ''
 scriptname = 'main.py'
 
 # ===Program===
